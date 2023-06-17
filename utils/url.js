@@ -1,0 +1,1 @@
+export const Api_Url = process.env.Api_Url
